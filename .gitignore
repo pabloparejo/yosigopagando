@@ -2,6 +2,8 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 *.sqlite3
 *.pyc
+**/__pycache__
+static_root
 
 # User-specific stuff
 .idea
