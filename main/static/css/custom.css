@@ -7,3 +7,7 @@
     color: white;
     border-radius: 0;
 }
+
+.navbar-nav{
+    margin: 0 auto;
+}
